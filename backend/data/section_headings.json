@@ -1,0 +1,47 @@
+{
+  "contact": {
+    "variants": ["contact", "contact info", "contact information"],
+    "required_fields": ["name", "email", "phone"]
+  },
+  "summary": {
+    "variants": [
+      "summary", "professional summary", "about me", "about",
+      "profile", "professional profile", "objective", "career objective",
+      "introduction", "personal statement"
+    ]
+  },
+  "experience": {
+    "variants": [
+      "experience", "work experience", "professional experience",
+      "employment history", "work history", "background",
+      "what i've built", "what i've done", "career history",
+      "positions held", "professional background"
+    ]
+  },
+  "skills": {
+    "variants": [
+      "skills", "technical skills", "core competencies", "expertise",
+      "technical expertise", "areas of expertise", "capabilities",
+      "proficiencies", "technologies", "tools"
+    ]
+  },
+  "projects": {
+    "variants": [
+      "projects", "personal projects", "side projects",
+      "portfolio", "project highlights", "key projects",
+      "featured projects", "notable projects"
+    ]
+  },
+  "education": {
+    "variants": [
+      "education", "educational background", "academic background",
+      "degrees", "qualifications", "academic qualifications"
+    ]
+  },
+  "certifications": {
+    "variants": [
+      "certifications", "certificates", "licenses",
+      "professional certifications", "credentials"
+    ]
+  }
+}

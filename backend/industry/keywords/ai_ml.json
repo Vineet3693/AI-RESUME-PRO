@@ -1,0 +1,15 @@
+{
+  "required": [
+    "python", "machine learning", "deep learning", "neural networks",
+    "tensorflow", "pytorch", "scikit-learn", "natural language processing",
+    "computer vision", "model training", "feature engineering", "data preprocessing"
+  ],
+  "preferred": [
+    "transformers", "BERT", "GPT", "CNN", "RNN", "LSTM", "reinforcement learning",
+    "MLOps", "model deployment", "A/B testing", "distributed training",
+    "CUDA", "GPU optimization", "ONNX", "TensorRT"
+  ],
+  "avoid": [
+    "familiar with", "basic knowledge", "exposure to", "beginner"
+  ]
+}

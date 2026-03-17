@@ -1,0 +1,25 @@
+{
+  "strong": {
+    "all": [
+      "achieved", "built", "created", "designed", "developed", "engineered",
+      "implemented", "improved", "launched", "led", "managed", "optimized",
+      "owned", "spearheaded", "transformed"
+    ],
+    "senior": [
+      "architected", "championed", "directed", "established", " mentored",
+      "pioneered", "restructured", "strategized", "visioned"
+    ],
+    "director": [
+      "accelerated", "aligned", "cultivated", "drove", "enabled", "galvanized",
+      "orchestrated", "scaled", "transformational"
+    ]
+  },
+  "weak": [
+    "did", "handled", "helped", "made", "worked on", "tasked with",
+    "responsible for", "duties included"
+  ],
+  "passive": [
+    "assisted", "contributed to", "participated in", "supported",
+    "was responsible for", "involved in"
+  ]
+}

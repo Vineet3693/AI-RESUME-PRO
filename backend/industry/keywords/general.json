@@ -1,0 +1,14 @@
+{
+  "required": [
+    "communication", "teamwork", "problem solving", "leadership",
+    "project management", "collaboration", "analytical skills"
+  ],
+  "preferred": [
+    "strategic thinking", "mentorship", "cross-functional", "stakeholder management",
+    "process improvement", "innovation", "adaptability"
+  ],
+  "avoid": [
+    "familiar with", "basic knowledge", "exposure to", "beginner",
+    "team player", "hard worker", "detail oriented", "go-getter"
+  ]
+}
