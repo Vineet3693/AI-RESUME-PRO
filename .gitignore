@@ -1,4 +1,18 @@
 ```
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.*
+
 # Python
 __pycache__/
 *.pyc
@@ -8,35 +22,25 @@ __pycache__/
 env/
 venv/
 .venv/
-.ENV
-.ENV.local
-.env
-.env.local
-.env.*
-.python-version
 pip-log.txt
 pip-delete-this-directory.txt
-
-# Database
-*.db
-*.db-journal
-
-# Logs
-*.log
-
-# Coverage
+.tox/
 .coverage
-coverage/
-htmlcov/
 .coverage.*
-
-# Temporary files
-*.tmp
-*.temp
-*.swp
-*~
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
 .DS_Store
 Thumbs.db
+
+# TypeScript/JavaScript
+*.tsbuildinfo
+*.js.map
+*.jsx.map
+*.ts.map
+*.tsx.map
 
 # IDE
 .vscode/
@@ -44,23 +48,10 @@ Thumbs.db
 *.swp
 *.swo
 
-# Build artifacts
-dist/
-build/
-*.out
-*.exe
-*.dll
-*.so
-*.a
-*.obj
+# Logs
+*.log
 
-# Testing
-.pytest_cache/
-.mypy_cache/
-.hypothesis/
-
-# Dependencies
-node_modules/
-target/
-.gradle/
+# Temporary files
+*.tmp
+*.temp
 ```
