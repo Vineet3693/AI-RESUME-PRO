@@ -1,0 +1,46 @@
+{
+  "workday": {
+    "name": "Workday",
+    "rules": [
+      {"type": "no_tables", "severity": "critical", "message": "Tables may not parse correctly"},
+      {"type": "standard_headings", "severity": "high", "message": "Use standard section headings"},
+      {"type": "no_headers_footers", "severity": "critical", "message": "Contact info not in header/footer"}
+    ]
+  },
+  "greenhouse": {
+    "name": "Greenhouse",
+    "rules": [
+      {"type": "simple_formatting", "severity": "high", "message": "Complex formatting may break"},
+      {"type": "standard_fonts", "severity": "medium", "message": "Use standard fonts only"},
+      {"type": "no_graphics", "severity": "critical", "message": "Graphics and images not parsed"}
+    ]
+  },
+  "lever": {
+    "name": "Lever",
+    "rules": [
+      {"type": "single_column", "severity": "high", "message": "Multi-column layouts may not parse"},
+      {"type": "text_not_images", "severity": "critical", "message": "Text must be selectable, not embedded in images"}
+    ]
+  },
+  "taleo": {
+    "name": "Oracle Taleo",
+    "rules": [
+      {"type": "docx_preferred", "severity": "medium", "message": "DOCX format parses better than PDF"},
+      {"type": "no_special_chars", "severity": "low", "message": "Special characters may not display correctly"}
+    ]
+  },
+  "icims": {
+    "name": "iCIMS",
+    "rules": [
+      {"type": "standard_dates", "severity": "high", "message": "Use MM/YYYY or Month YYYY date format"},
+      {"type": "clear_hierarchy", "severity": "medium", "message": "Clear job title and company hierarchy required"}
+    ]
+  },
+  "brassring": {
+    "name": "IBM BrassRing",
+    "rules": [
+      {"type": "no_text_boxes", "severity": "critical", "message": "Text boxes are not parsed"},
+      {"type": "linear_layout", "severity": "high", "message": "Content must flow top to bottom"}
+    ]
+  }
+}

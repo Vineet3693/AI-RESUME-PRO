@@ -1,0 +1,15 @@
+{
+  "required": [
+    "software development", "programming", "coding", "debugging",
+    "version control", "git", "code review", "testing",
+    "CI/CD", "agile", "scrum", "API design", "microservices"
+  ],
+  "preferred": [
+    "system design", "architecture", "scalability", "performance optimization",
+    "cloud platforms", "AWS", "GCP", "Azure", "Docker", "Kubernetes",
+    "DevOps", "infrastructure as code", "Terraform", "monitoring"
+  ],
+  "avoid": [
+    "familiar with", "basic knowledge", "exposure to", "beginner"
+  ]
+}

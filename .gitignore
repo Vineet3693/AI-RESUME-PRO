@@ -1,0 +1,66 @@
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.ENV
+.ENV.local
+.env
+.env.local
+.env.*
+.python-version
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Database
+*.db
+*.db-journal
+
+# Logs
+*.log
+
+# Coverage
+.coverage
+coverage/
+htmlcov/
+.coverage.*
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts
+dist/
+build/
+*.out
+*.exe
+*.dll
+*.so
+*.a
+*.obj
+
+# Testing
+.pytest_cache/
+.mypy_cache/
+.hypothesis/
+
+# Dependencies
+node_modules/
+target/
+.gradle/
+```
